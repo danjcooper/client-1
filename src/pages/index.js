@@ -5,3 +5,4 @@ export { default as Quiz } from './Quiz';
 export { default as Leaderboard } from './Leaderboard';
 export { default as NotFound } from './NotFound';
 export { default as GDPR } from './GDPR';
+export { default as SocketTesting } from './Sockets';
